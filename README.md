@@ -69,21 +69,20 @@ Experience VisioML in action!
 
 ## 📸 Screenshots
 
-*(Add 2-3 compelling screenshots of your app here. You can drag-and-drop images directly into the GitHub text editor for the README, or upload them to your repo (e.g., in an `assets/images/` folder) and link them like this: `![Screenshot 1](assets/images/screenshot1.png)`)*
-
-**Example Screenshot Placeholder:**
-![VisioML Interface](assets/images/placeholder_screenshot1.png)
+![VisioML Interface](https://github.com/parastak/VisioML--Automate-data-visualization-and-ML-training-app/blob/793d5660886e80c6bc57dec45c483f2919d96e64/assets/images/screenshot1.png)
 *Caption: The main data loading and navigation interface.*
 
-![VisioML Visualization](assets/images/placeholder_screenshot2.png)
-*Caption: Example of the interactive visualization page.*
 
-## 🎞️ Demo Video / GIF
+![VisioML cleaning Result](https://github.com/parastak/VisioML--Automate-data-visualization-and-ML-training-app/blob/793d5660886e80c6bc57dec45c483f2919d96e64/assets/images/screenshot2.png)
+*Caption: Example of the interactive Cleaning result page interface.*
 
-*(A short GIF is highly recommended! You can use tools like ScreenToGif (Windows), Kap (Mac), or Peek (Linux) to record a short walkthrough. Upload the GIF to your repo (e.g., `assets/demo.gif`) and embed it.)*
 
-**Example GIF Placeholder:**
-![VisioML Workflow Demo](assets/demo.gif)
+![VisioML Feature engineering result](https://github.com/parastak/VisioML--Automate-data-visualization-and-ML-training-app/blob/793d5660886e80c6bc57dec45c483f2919d96e64/assets/images/screenshot3.png)
+*Caption: Example of the interactive feature engineering result interface.*
+
+
+![VisioML Models test evaluation result](https://github.com/parastak/VisioML--Automate-data-visualization-and-ML-training-app/blob/793d5660886e80c6bc57dec45c483f2919d96e64/assets/images/screenshot6.png)
+*Caption: Example of the interactive Trained models test set evaluation result and scores interface.*
 
 
 ## ⚙️ Setup and Run Locally
