@@ -65,7 +65,7 @@ requests==2.32.3
 rich==13.7.1
 rpds-py==0.18.1
 safetensors==0.5.2
-scikit-learn==1.6.0rc1
+scikit-learn==1.6.0
 scipy==1.14.0
 seaborn==0.13.2
 setuptools==70.2.0
