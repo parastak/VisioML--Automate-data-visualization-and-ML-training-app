@@ -2,7 +2,6 @@
 Welcome to **VisioML** — your one-stop solution to automate the entire machine learning pipeline from raw data upload to model evaluation, without writing a single line of code.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_CLOUD_APP_LINK_HERE)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](YOUR_HUGGING_FACE_SPACE_LINK_HERE)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 VisioML is a comprehensive Streamlit application designed to empower data scientists and machine learning engineers by automating key stages of the ML workflow.
 From data ingestion and cleaning to exploratory data analysis, feature engineering, model training, and evaluation, VisioML provides an intuitive interface to accelerate your projects.
 
