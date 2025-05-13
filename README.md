@@ -1,7 +1,7 @@
 # VisioML: Automated Data Visualization & ML Training App 🚀
 Welcome to **VisioML** — your one-stop solution to automate the entire machine learning pipeline from raw data upload to model evaluation, without writing a single line of code.
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_CLOUD_APP_LINK_HERE)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](YOUR_HUGGING_FACE_SPACE_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://visioml--automate-machine-learning-workflows.streamlit.app/)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/parastak15/VisioML)
 VisioML is a comprehensive Streamlit application designed to empower data scientists and machine learning engineers by automating key stages of the ML workflow.
 From data ingestion and cleaning to exploratory data analysis, feature engineering, model training, and evaluation, VisioML provides an intuitive interface to accelerate your projects.
 
@@ -61,8 +61,8 @@ VisioML offers a rich set of features to streamline your data science tasks:
 
 Experience VisioML in action!
 
-* **Streamlit Community Cloud:** [YOUR_STREAMLIT_CLOUD_APP_LINK_HERE](YOUR_STREAMLIT_CLOUD_APP_LINK_HERE)
-* **Hugging Face Spaces:** [YOUR_HUGGING_FACE_SPACE_LINK_HERE](YOUR_HUGGING_FACE_SPACE_LINK_HERE)
+* **Streamlit Community Cloud:** [VisioML: Automate ML Workflow (streamlit) ](https://visioml--automate-machine-learning-workflows.streamlit.app/)
+* **Hugging Face Spaces:** [VisioML: Automate ML Workflow (huggingface) ](https://huggingface.co/spaces/parastak15/VisioML)
 
 *(Please be patient if the app is waking up from sleep on the free tiers.)*
 
